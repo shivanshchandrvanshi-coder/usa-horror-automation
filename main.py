@@ -11,7 +11,7 @@ story = [
     "The whisper came from behind a locked door.",
     "She opened it slowly. There was nobody inside.",
     "Then her phone rang. The caller ID showed her own name.",
-    "A voice whispered: DO NOT TURN AROUND.",
+    "A voice whispered: DO NOT TUR
     "Emily slowly looked behind her...",
     "And saw herself smiling in the darkness."
 ]
@@ -48,4 +48,4 @@ for i, line in enumerate(story, start=1):
 
     img.save(f"output/scene_{i:02d}.png")
 
-print("Horror story scenes created successfully!")
+print("Horror story scenes created successfully!"
